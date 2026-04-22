@@ -89,11 +89,14 @@ The project follows a structured machine learning workflow:
 ## 📊 Visualizations
 
 Some visualizations generated during the analysis include:
+<img width="562" height="499" alt="image" src="https://github.com/user-attachments/assets/eb2a2a5f-c764-44fc-88ec-c2f864b9cdeb" />
+<img width="578" height="499" alt="image" src="https://github.com/user-attachments/assets/1a72eacf-0a65-4698-83d6-f0ba2c505f21" />
+<img width="589" height="449" alt="image" src="https://github.com/user-attachments/assets/e6f39801-8be7-4164-8692-7eac6aae7840" />
+<img width="574" height="449" alt="image" src="https://github.com/user-attachments/assets/fb652f8d-ea02-45c3-90e2-b408c0a7dc91" />
+<img width="558" height="462" alt="image" src="https://github.com/user-attachments/assets/30282efa-698e-459a-b363-27b696833422" />
+<img width="562" height="499" alt="image" src="https://github.com/user-attachments/assets/372f0ffa-2347-49c1-8287-451a0bdf45b2" />
+<img width="601" height="522" alt="image" src="https://github.com/user-attachments/assets/295745d4-7f07-41d4-903d-c875ba735097" />
 
-![alt text](https://github.com/27abhishek27/British-Airways-Job-Simulation/blob/main/British_Airways_Task1_png/histogram.png)
-![alt text](https://github.com/27abhishek27/British-Airways-Job-Simulation/blob/main/British_Airways_Task1_png/Rating.png)
-![alt text](https://github.com/27abhishek27/British-Airways-Job-Simulation/blob/main/British_Airways_Task1_png/full%20reviewpng.png)
-![alt text](https://github.com/27abhishek27/British-Airways-Job-Simulation/blob/main/British_Airways_Task1_png/recommended.png)
 
 *(Presentations contain detailed visuals.)*
 
